@@ -10,7 +10,7 @@ function Gretting(props) {
 }
 
 Gretting.defaultProps = {
-    name : '당',
+    name : '으니',
 }
 
 export default Gretting;
